@@ -167,15 +167,9 @@
       <name>Distrito_Coixtlahuaca</name>
       <Placemark>
         <name>Concepción Buenavista</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20018<br>ENTIDAD: 20<br>SECCIÓN: 018]]></description>
+        <description><![CDATA[CVEGEO: 20018<br>ENTIDAD: 20<br>SECCIÓN: 018]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20018</value>
           </Data>
@@ -1202,15 +1196,9 @@
       </Placemark>
       <Placemark>
         <name>San Miguel Tulancingo</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20287<br>ENTIDAD: 20<br>SECCIÓN: 287]]></description>
+        <description><![CDATA[CVEGEO: 20287<br>ENTIDAD: 20<br>SECCIÓN: 287]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20287</value>
           </Data>
@@ -1302,15 +1290,9 @@
       </Placemark>
       <Placemark>
         <name>Santa Magdalena Jicotlán</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20047<br>ENTIDAD: 20<br>SECCIÓN: 047]]></description>
+        <description><![CDATA[CVEGEO: 20047<br>ENTIDAD: 20<br>SECCIÓN: 047]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20047</value>
           </Data>
@@ -1508,15 +1490,9 @@
       </Placemark>
       <Placemark>
         <name>San Francisco Teopan</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20151<br>ENTIDAD: 20<br>SECCIÓN: 151]]></description>
+        <description><![CDATA[CVEGEO: 20151<br>ENTIDAD: 20<br>SECCIÓN: 151]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20151</value>
           </Data>
@@ -1731,15 +1707,9 @@
       </Placemark>
       <Placemark>
         <name>San Cristóbal Suchixtlahuaca</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20129<br>ENTIDAD: 20<br>SECCIÓN: 129]]></description>
+        <description><![CDATA[CVEGEO: 20129<br>ENTIDAD: 20<br>SECCIÓN: 129]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20129</value>
           </Data>
@@ -1860,15 +1830,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Bautista Coixtlahuaca</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20176<br>ENTIDAD: 20<br>SECCIÓN: 176]]></description>
+        <description><![CDATA[CVEGEO: 20176<br>ENTIDAD: 20<br>SECCIÓN: 176]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20176</value>
           </Data>
@@ -2136,15 +2100,9 @@
       </Placemark>
       <Placemark>
         <name>San Mateo Tlapiltepec</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20256<br>ENTIDAD: 20<br>SECCIÓN: 256]]></description>
+        <description><![CDATA[CVEGEO: 20256<br>ENTIDAD: 20<br>SECCIÓN: 256]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20256</value>
           </Data>
@@ -2293,15 +2251,9 @@
       </Placemark>
       <Placemark>
         <name>San Miguel Tequixtepec</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20283<br>ENTIDAD: 20<br>SECCIÓN: 283]]></description>
+        <description><![CDATA[CVEGEO: 20283<br>ENTIDAD: 20<br>SECCIÓN: 283]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20283</value>
           </Data>
@@ -2382,15 +2334,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Ihuitlán Plumas</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20464<br>ENTIDAD: 20<br>SECCIÓN: 464]]></description>
+        <description><![CDATA[CVEGEO: 20464<br>ENTIDAD: 20<br>SECCIÓN: 464]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20464</value>
           </Data>
@@ -2549,15 +2495,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Nativitas</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20422<br>ENTIDAD: 20<br>SECCIÓN: 422]]></description>
+        <description><![CDATA[CVEGEO: 20422<br>ENTIDAD: 20<br>SECCIÓN: 422]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20422</value>
           </Data>
@@ -2621,15 +2561,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Tepetlapa</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20488<br>ENTIDAD: 20<br>SECCIÓN: 488]]></description>
+        <description><![CDATA[CVEGEO: 20488<br>ENTIDAD: 20<br>SECCIÓN: 488]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20488</value>
           </Data>
@@ -2677,15 +2611,9 @@
       </Placemark>
       <Placemark>
         <name>Tepelmeme Villa de Morelos</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20548<br>ENTIDAD: 20<br>SECCIÓN: 548]]></description>
+        <description><![CDATA[CVEGEO: 20548<br>ENTIDAD: 20<br>SECCIÓN: 548]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20548</value>
           </Data>
@@ -3793,15 +3721,9 @@
       </Placemark>
       <Placemark>
         <name>Tlacotepec Plumas</name>
-        <description><![CDATA[nombre: DISTRITO COIXTLAHUACA<br>descripción: <br>CVEGEO: 20552<br>ENTIDAD: 20<br>SECCIÓN: 552]]></description>
+        <description><![CDATA[CVEGEO: 20552<br>ENTIDAD: 20<br>SECCIÓN: 552]]></description>
         <styleUrl>#poly-F57C00-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>DISTRITO COIXTLAHUACA</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20552</value>
           </Data>
@@ -4015,15 +3937,9 @@
       <name>Distrito_Cuicatlan</name>
       <Placemark>
         <name>San Pedro Teutila</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20330<br>ENTIDAD: 20<br>SECCIÓN: 330]]></description>
+        <description><![CDATA[CVEGEO: 20330<br>ENTIDAD: 20<br>SECCIÓN: 330]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20330</value>
           </Data>
@@ -4976,15 +4892,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Bautista Cuicatlán</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20177<br>ENTIDAD: 20<br>SECCIÓN: 177]]></description>
+        <description><![CDATA[CVEGEO: 20177<br>ENTIDAD: 20<br>SECCIÓN: 177]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20177</value>
           </Data>
@@ -5940,15 +5850,9 @@
       </Placemark>
       <Placemark>
         <name>San Andrés Teotilálpam</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20098<br>ENTIDAD: 20<br>SECCIÓN: 098]]></description>
+        <description><![CDATA[CVEGEO: 20098<br>ENTIDAD: 20<br>SECCIÓN: 098]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20098</value>
           </Data>
@@ -6632,15 +6536,9 @@
       </Placemark>
       <Placemark>
         <name>Chiquihuitlán de Benito Juárez</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20027<br>ENTIDAD: 20<br>SECCIÓN: 027]]></description>
+        <description><![CDATA[CVEGEO: 20027<br>ENTIDAD: 20<br>SECCIÓN: 027]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20027</value>
           </Data>
@@ -6809,15 +6707,9 @@
       </Placemark>
       <Placemark>
         <name>Concepción Pápalo</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20019<br>ENTIDAD: 20<br>SECCIÓN: 019]]></description>
+        <description><![CDATA[CVEGEO: 20019<br>ENTIDAD: 20<br>SECCIÓN: 019]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20019</value>
           </Data>
@@ -7334,15 +7226,9 @@
       </Placemark>
       <Placemark>
         <name>Cuyamecalco Villa de Zaragoza</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20024<br>ENTIDAD: 20<br>SECCIÓN: 024]]></description>
+        <description><![CDATA[CVEGEO: 20024<br>ENTIDAD: 20<br>SECCIÓN: 024]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20024</value>
           </Data>
@@ -7658,15 +7544,9 @@
       </Placemark>
       <Placemark>
         <name>San Francisco Chapulapa</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20139<br>ENTIDAD: 20<br>SECCIÓN: 139]]></description>
+        <description><![CDATA[CVEGEO: 20139<br>ENTIDAD: 20<br>SECCIÓN: 139]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20139</value>
           </Data>
@@ -7925,15 +7805,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Bautista Tlacoatzintepec</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20182<br>ENTIDAD: 20<br>SECCIÓN: 182]]></description>
+        <description><![CDATA[CVEGEO: 20182<br>ENTIDAD: 20<br>SECCIÓN: 182]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20182</value>
           </Data>
@@ -8217,15 +8091,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Tepeuxila</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20220<br>ENTIDAD: 20<br>SECCIÓN: 220]]></description>
+        <description><![CDATA[CVEGEO: 20220<br>ENTIDAD: 20<br>SECCIÓN: 220]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20220</value>
           </Data>
@@ -8990,15 +8858,9 @@
       </Placemark>
       <Placemark>
         <name>San Miguel Santa Flor</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20276<br>ENTIDAD: 20<br>SECCIÓN: 276]]></description>
+        <description><![CDATA[CVEGEO: 20276<br>ENTIDAD: 20<br>SECCIÓN: 276]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20276</value>
           </Data>
@@ -9143,15 +9005,9 @@
       </Placemark>
       <Placemark>
         <name>San Pedro Jaltepetongo</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20311<br>ENTIDAD: 20<br>SECCIÓN: 311]]></description>
+        <description><![CDATA[CVEGEO: 20311<br>ENTIDAD: 20<br>SECCIÓN: 311]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20311</value>
           </Data>
@@ -9328,15 +9184,9 @@
       </Placemark>
       <Placemark>
         <name>San Pedro Jocotipac</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20313<br>ENTIDAD: 20<br>SECCIÓN: 313]]></description>
+        <description><![CDATA[CVEGEO: 20313<br>ENTIDAD: 20<br>SECCIÓN: 313]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20313</value>
           </Data>
@@ -9527,15 +9377,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Texcatitlán</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20436<br>ENTIDAD: 20<br>SECCIÓN: 436]]></description>
+        <description><![CDATA[CVEGEO: 20436<br>ENTIDAD: 20<br>SECCIÓN: 436]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20436</value>
           </Data>
@@ -9694,15 +9538,9 @@
       </Placemark>
       <Placemark>
         <name>San Pedro Sochiápam</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20326<br>ENTIDAD: 20<br>SECCIÓN: 326]]></description>
+        <description><![CDATA[CVEGEO: 20326<br>ENTIDAD: 20<br>SECCIÓN: 326]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20326</value>
           </Data>
@@ -10149,15 +9987,9 @@
       </Placemark>
       <Placemark>
         <name>Santa Ana Cuauhtémoc</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20355<br>ENTIDAD: 20<br>SECCIÓN: 355]]></description>
+        <description><![CDATA[CVEGEO: 20355<br>ENTIDAD: 20<br>SECCIÓN: 355]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20355</value>
           </Data>
@@ -10369,15 +10201,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Pápalo</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20425<br>ENTIDAD: 20<br>SECCIÓN: 425]]></description>
+        <description><![CDATA[CVEGEO: 20425<br>ENTIDAD: 20<br>SECCIÓN: 425]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20425</value>
           </Data>
@@ -10731,15 +10557,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Tlalixtac</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20438<br>ENTIDAD: 20<br>SECCIÓN: 438]]></description>
+        <description><![CDATA[CVEGEO: 20438<br>ENTIDAD: 20<br>SECCIÓN: 438]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20438</value>
           </Data>
@@ -11022,15 +10842,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Nacaltepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20478<br>ENTIDAD: 20<br>SECCIÓN: 478]]></description>
+        <description><![CDATA[CVEGEO: 20478<br>ENTIDAD: 20<br>SECCIÓN: 478]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20478</value>
           </Data>
@@ -11308,15 +11122,9 @@
       </Placemark>
       <Placemark>
         <name>Santos Reyes Pápalo</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20527<br>ENTIDAD: 20<br>SECCIÓN: 527]]></description>
+        <description><![CDATA[CVEGEO: 20527<br>ENTIDAD: 20<br>SECCIÓN: 527]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20527</value>
           </Data>
@@ -11611,15 +11419,9 @@
       </Placemark>
       <Placemark>
         <name>Valerio Trujano</name>
-        <description><![CDATA[nombre: Distrito Cuicatlan<br>descripción: <br>CVEGEO: 20558<br>ENTIDAD: 20<br>SECCIÓN: 558]]></description>
+        <description><![CDATA[CVEGEO: 20558<br>ENTIDAD: 20<br>SECCIÓN: 558]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value>Distrito Cuicatlan</value>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20558</value>
           </Data>
@@ -11825,15 +11627,9 @@
       <name>Distrito_Huajuapan</name>
       <Placemark>
         <name>Santo Domingo Yodohino</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20524<br>ENTIDAD: 20<br>SECCIÓN: 524]]></description>
+        <description><![CDATA[CVEGEO: 20524<br>ENTIDAD: 20<br>SECCIÓN: 524]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20524</value>
           </Data>
@@ -11913,15 +11709,9 @@
       </Placemark>
       <Placemark>
         <name>San Pedro y San Pablo Tequixtepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20340<br>ENTIDAD: 20<br>SECCIÓN: 340]]></description>
+        <description><![CDATA[CVEGEO: 20340<br>ENTIDAD: 20<br>SECCIÓN: 340]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20340</value>
           </Data>
@@ -12922,15 +12712,9 @@
       </Placemark>
       <Placemark>
         <name>Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20549<br>ENTIDAD: 20<br>SECCIÓN: 549]]></description>
+        <description><![CDATA[CVEGEO: 20549<br>ENTIDAD: 20<br>SECCIÓN: 549]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20549</value>
           </Data>
@@ -13555,15 +13339,9 @@
       </Placemark>
       <Placemark>
         <name>Zapotitlán Palmas</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20568<br>ENTIDAD: 20<br>SECCIÓN: 568]]></description>
+        <description><![CDATA[CVEGEO: 20568<br>ENTIDAD: 20<br>SECCIÓN: 568]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20568</value>
           </Data>
@@ -13675,15 +13453,9 @@
       </Placemark>
       <Placemark>
         <name>Mariscala de Juárez</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20055<br>ENTIDAD: 20<br>SECCIÓN: 055]]></description>
+        <description><![CDATA[CVEGEO: 20055<br>ENTIDAD: 20<br>SECCIÓN: 055]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20055</value>
           </Data>
@@ -14684,15 +14456,9 @@
       </Placemark>
       <Placemark>
         <name>Asunción Cuyotepeji</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20004<br>ENTIDAD: 20<br>SECCIÓN: 004]]></description>
+        <description><![CDATA[CVEGEO: 20004<br>ENTIDAD: 20<br>SECCIÓN: 004]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20004</value>
           </Data>
@@ -15049,15 +14815,9 @@
       </Placemark>
       <Placemark>
         <name>Cosoltepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20022<br>ENTIDAD: 20<br>SECCIÓN: 022]]></description>
+        <description><![CDATA[CVEGEO: 20022<br>ENTIDAD: 20<br>SECCIÓN: 022]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20022</value>
           </Data>
@@ -15543,15 +15303,9 @@
       </Placemark>
       <Placemark>
         <name>Fresnillo de Trujano</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20032<br>ENTIDAD: 20<br>SECCIÓN: 032]]></description>
+        <description><![CDATA[CVEGEO: 20032<br>ENTIDAD: 20<br>SECCIÓN: 032]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20032</value>
           </Data>
@@ -15937,15 +15691,9 @@
       </Placemark>
       <Placemark>
         <name>Heroica Ciudad de Huajuapan de León</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20039<br>ENTIDAD: 20<br>SECCIÓN: 039]]></description>
+        <description><![CDATA[CVEGEO: 20039<br>ENTIDAD: 20<br>SECCIÓN: 039]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20039</value>
           </Data>
@@ -17271,15 +17019,9 @@
       </Placemark>
       <Placemark>
         <name>San Jerónimo Silacayoapilla</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20160<br>ENTIDAD: 20<br>SECCIÓN: 160]]></description>
+        <description><![CDATA[CVEGEO: 20160<br>ENTIDAD: 20<br>SECCIÓN: 160]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20160</value>
           </Data>
@@ -17414,15 +17156,9 @@
       </Placemark>
       <Placemark>
         <name>San Jorge Nuchita</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20164<br>ENTIDAD: 20<br>SECCIÓN: 164]]></description>
+        <description><![CDATA[CVEGEO: 20164<br>ENTIDAD: 20<br>SECCIÓN: 164]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20164</value>
           </Data>
@@ -18376,15 +18112,9 @@
       </Placemark>
       <Placemark>
         <name>San José Ayuquila</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20165<br>ENTIDAD: 20<br>SECCIÓN: 165]]></description>
+        <description><![CDATA[CVEGEO: 20165<br>ENTIDAD: 20<br>SECCIÓN: 165]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20165</value>
           </Data>
@@ -18805,15 +18535,9 @@
       </Placemark>
       <Placemark>
         <name>San Marcos Arteaga</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20237<br>ENTIDAD: 20<br>SECCIÓN: 237]]></description>
+        <description><![CDATA[CVEGEO: 20237<br>ENTIDAD: 20<br>SECCIÓN: 237]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20237</value>
           </Data>
@@ -19868,15 +19592,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Bautista Suchitepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20181<br>ENTIDAD: 20<br>SECCIÓN: 181]]></description>
+        <description><![CDATA[CVEGEO: 20181<br>ENTIDAD: 20<br>SECCIÓN: 181]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20181</value>
           </Data>
@@ -20246,15 +19964,9 @@
       </Placemark>
       <Placemark>
         <name>San Miguel Amatitlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20261<br>ENTIDAD: 20<br>SECCIÓN: 261]]></description>
+        <description><![CDATA[CVEGEO: 20261<br>ENTIDAD: 20<br>SECCIÓN: 261]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20261</value>
           </Data>
@@ -21047,15 +20759,9 @@
       </Placemark>
       <Placemark>
         <name>San Martín Zacatepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20245<br>ENTIDAD: 20<br>SECCIÓN: 245]]></description>
+        <description><![CDATA[CVEGEO: 20245<br>ENTIDAD: 20<br>SECCIÓN: 245]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20245</value>
           </Data>
@@ -21359,15 +21065,9 @@
       </Placemark>
       <Placemark>
         <name>San Simón Zahuatlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20352<br>ENTIDAD: 20<br>SECCIÓN: 352]]></description>
+        <description><![CDATA[CVEGEO: 20352<br>ENTIDAD: 20<br>SECCIÓN: 352]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20352</value>
           </Data>
@@ -21716,15 +21416,9 @@
       </Placemark>
       <Placemark>
         <name>Santa Catarina Zapoquila</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20373<br>ENTIDAD: 20<br>SECCIÓN: 373]]></description>
+        <description><![CDATA[CVEGEO: 20373<br>ENTIDAD: 20<br>SECCIÓN: 373]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20373</value>
           </Data>
@@ -21947,15 +21641,9 @@
       </Placemark>
       <Placemark>
         <name>Santa Cruz Tacache de Mina</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20381<br>ENTIDAD: 20<br>SECCIÓN: 381]]></description>
+        <description><![CDATA[CVEGEO: 20381<br>ENTIDAD: 20<br>SECCIÓN: 381]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20381</value>
           </Data>
@@ -22157,15 +21845,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Camotlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20400<br>ENTIDAD: 20<br>SECCIÓN: 400]]></description>
+        <description><![CDATA[CVEGEO: 20400<br>ENTIDAD: 20<br>SECCIÓN: 400]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20400</value>
           </Data>
@@ -22261,15 +21943,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Cacaloxtepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20456<br>ENTIDAD: 20<br>SECCIÓN: 456]]></description>
+        <description><![CDATA[CVEGEO: 20456<br>ENTIDAD: 20<br>SECCIÓN: 456]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20456</value>
           </Data>
@@ -22424,15 +22100,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Huajolotitlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20462<br>ENTIDAD: 20<br>SECCIÓN: 462]]></description>
+        <description><![CDATA[CVEGEO: 20462<br>ENTIDAD: 20<br>SECCIÓN: 462]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20462</value>
           </Data>
@@ -22668,15 +22338,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Ayuquililla</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20455<br>ENTIDAD: 20<br>SECCIÓN: 455]]></description>
+        <description><![CDATA[CVEGEO: 20455<br>ENTIDAD: 20<br>SECCIÓN: 455]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20455</value>
           </Data>
@@ -23192,15 +22856,9 @@
       </Placemark>
       <Placemark>
         <name>Villa de Santiago Chazumba</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20459<br>ENTIDAD: 20<br>SECCIÓN: 459]]></description>
+        <description><![CDATA[CVEGEO: 20459<br>ENTIDAD: 20<br>SECCIÓN: 459]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20459</value>
           </Data>
@@ -24106,15 +23764,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Miltepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20476<br>ENTIDAD: 20<br>SECCIÓN: 476]]></description>
+        <description><![CDATA[CVEGEO: 20476<br>ENTIDAD: 20<br>SECCIÓN: 476]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20476</value>
           </Data>
@@ -24517,15 +24169,9 @@
       </Placemark>
       <Placemark>
         <name>Santo Domingo Tonalá</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20520<br>ENTIDAD: 20<br>SECCIÓN: 520]]></description>
+        <description><![CDATA[CVEGEO: 20520<br>ENTIDAD: 20<br>SECCIÓN: 520]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20520</value>
           </Data>
@@ -24942,15 +24588,9 @@
       </Placemark>
       <Placemark>
         <name>Santos Reyes Yucuná</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20529<br>ENTIDAD: 20<br>SECCIÓN: 529]]></description>
+        <description><![CDATA[CVEGEO: 20529<br>ENTIDAD: 20<br>SECCIÓN: 529]]></description>
         <styleUrl>#poly-673AB7-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20529</value>
           </Data>
@@ -25226,15 +24866,9 @@
       <name>Distrito_Silacayoapam</name>
       <Placemark>
         <name>San Lorenzo Victoria</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20230<br>ENTIDAD: 20<br>SECCIÓN: 230]]></description>
+        <description><![CDATA[CVEGEO: 20230<br>ENTIDAD: 20<br>SECCIÓN: 230]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20230</value>
           </Data>
@@ -25958,15 +25592,9 @@
       </Placemark>
       <Placemark>
         <name>San Mateo Nejápam</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20251<br>ENTIDAD: 20<br>SECCIÓN: 251]]></description>
+        <description><![CDATA[CVEGEO: 20251<br>ENTIDAD: 20<br>SECCIÓN: 251]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20251</value>
           </Data>
@@ -26053,15 +25681,9 @@
       </Placemark>
       <Placemark>
         <name>Calihualá</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20011<br>ENTIDAD: 20<br>SECCIÓN: 011]]></description>
+        <description><![CDATA[CVEGEO: 20011<br>ENTIDAD: 20<br>SECCIÓN: 011]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20011</value>
           </Data>
@@ -26384,15 +26006,9 @@
       </Placemark>
       <Placemark>
         <name>Guadalupe de Ramírez</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20034<br>ENTIDAD: 20<br>SECCIÓN: 034]]></description>
+        <description><![CDATA[CVEGEO: 20034<br>ENTIDAD: 20<br>SECCIÓN: 034]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20034</value>
           </Data>
@@ -26638,15 +26254,9 @@
       </Placemark>
       <Placemark>
         <name>Ixpantepec Nieves</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20065<br>ENTIDAD: 20<br>SECCIÓN: 065]]></description>
+        <description><![CDATA[CVEGEO: 20065<br>ENTIDAD: 20<br>SECCIÓN: 065]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20065</value>
           </Data>
@@ -27102,15 +26712,9 @@
       </Placemark>
       <Placemark>
         <name>San Andrés Tepetlapa</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20099<br>ENTIDAD: 20<br>SECCIÓN: 099]]></description>
+        <description><![CDATA[CVEGEO: 20099<br>ENTIDAD: 20<br>SECCIÓN: 099]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20099</value>
           </Data>
@@ -27254,15 +26858,9 @@
       </Placemark>
       <Placemark>
         <name>San Agustín Atenango</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20081<br>ENTIDAD: 20<br>SECCIÓN: 081]]></description>
+        <description><![CDATA[CVEGEO: 20081<br>ENTIDAD: 20<br>SECCIÓN: 081]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20081</value>
           </Data>
@@ -27561,15 +27159,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Ihualtepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20199<br>ENTIDAD: 20<br>SECCIÓN: 199]]></description>
+        <description><![CDATA[CVEGEO: 20199<br>ENTIDAD: 20<br>SECCIÓN: 199]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20199</value>
           </Data>
@@ -27797,15 +27389,9 @@
       </Placemark>
       <Placemark>
         <name>San Francisco Tlapancingo</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20152<br>ENTIDAD: 20<br>SECCIÓN: 152]]></description>
+        <description><![CDATA[CVEGEO: 20152<br>ENTIDAD: 20<br>SECCIÓN: 152]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20152</value>
           </Data>
@@ -27930,15 +27516,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Bautista Tlachichilco</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20183<br>ENTIDAD: 20<br>SECCIÓN: 183]]></description>
+        <description><![CDATA[CVEGEO: 20183<br>ENTIDAD: 20<br>SECCIÓN: 183]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20183</value>
           </Data>
@@ -28388,15 +27968,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Cieneguilla</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20186<br>ENTIDAD: 20<br>SECCIÓN: 186]]></description>
+        <description><![CDATA[CVEGEO: 20186<br>ENTIDAD: 20<br>SECCIÓN: 186]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20186</value>
           </Data>
@@ -29480,15 +29054,9 @@
       </Placemark>
       <Placemark>
         <name>San Miguel Ahuehuetitlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20259<br>ENTIDAD: 20<br>SECCIÓN: 259]]></description>
+        <description><![CDATA[CVEGEO: 20259<br>ENTIDAD: 20<br>SECCIÓN: 259]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20259</value>
           </Data>
@@ -29671,15 +29239,9 @@
       </Placemark>
       <Placemark>
         <name>San Nicolás Hidalgo</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20290<br>ENTIDAD: 20<br>SECCIÓN: 290]]></description>
+        <description><![CDATA[CVEGEO: 20290<br>ENTIDAD: 20<br>SECCIÓN: 290]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20290</value>
           </Data>
@@ -29762,15 +29324,9 @@
       </Placemark>
       <Placemark>
         <name>Santa Cruz de Bravo</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20376<br>ENTIDAD: 20<br>SECCIÓN: 376]]></description>
+        <description><![CDATA[CVEGEO: 20376<br>ENTIDAD: 20<br>SECCIÓN: 376]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20376</value>
           </Data>
@@ -29959,15 +29515,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago del Río</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20461<br>ENTIDAD: 20<br>SECCIÓN: 461]]></description>
+        <description><![CDATA[CVEGEO: 20461<br>ENTIDAD: 20<br>SECCIÓN: 461]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20461</value>
           </Data>
@@ -30402,15 +29952,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Tamazola</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20484<br>ENTIDAD: 20<br>SECCIÓN: 484]]></description>
+        <description><![CDATA[CVEGEO: 20484<br>ENTIDAD: 20<br>SECCIÓN: 484]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20484</value>
           </Data>
@@ -31298,15 +30842,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Yucuyachi</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20501<br>ENTIDAD: 20<br>SECCIÓN: 501]]></description>
+        <description><![CDATA[CVEGEO: 20501<br>ENTIDAD: 20<br>SECCIÓN: 501]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20501</value>
           </Data>
@@ -31801,15 +31339,9 @@
       </Placemark>
       <Placemark>
         <name>Silacayoápam</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20537<br>ENTIDAD: 20<br>SECCIÓN: 537]]></description>
+        <description><![CDATA[CVEGEO: 20537<br>ENTIDAD: 20<br>SECCIÓN: 537]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20537</value>
           </Data>
@@ -33542,15 +33074,9 @@
       </Placemark>
       <Placemark>
         <name>Zapotitlán Lagunas</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20567<br>ENTIDAD: 20<br>SECCIÓN: 567]]></description>
+        <description><![CDATA[CVEGEO: 20567<br>ENTIDAD: 20<br>SECCIÓN: 567]]></description>
         <styleUrl>#poly-C2185B-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20567</value>
           </Data>
@@ -34000,15 +33526,9 @@
       <name>Distrito_Teotitlan</name>
       <Placemark>
         <name>Mazatlán Villa de Flores</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20058<br>ENTIDAD: 20<br>SECCIÓN: 058]]></description>
+        <description><![CDATA[CVEGEO: 20058<br>ENTIDAD: 20<br>SECCIÓN: 058]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20058</value>
           </Data>
@@ -34564,15 +34084,9 @@
       </Placemark>
       <Placemark>
         <name>Eloxochitlán de Flores Magón</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20029<br>ENTIDAD: 20<br>SECCIÓN: 029]]></description>
+        <description><![CDATA[CVEGEO: 20029<br>ENTIDAD: 20<br>SECCIÓN: 029]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20029</value>
           </Data>
@@ -35017,15 +34531,9 @@
       </Placemark>
       <Placemark>
         <name>Huautepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20040<br>ENTIDAD: 20<br>SECCIÓN: 040]]></description>
+        <description><![CDATA[CVEGEO: 20040<br>ENTIDAD: 20<br>SECCIÓN: 040]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20040</value>
           </Data>
@@ -35529,15 +35037,9 @@
       </Placemark>
       <Placemark>
         <name>Huautla de Jiménez</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20041<br>ENTIDAD: 20<br>SECCIÓN: 041]]></description>
+        <description><![CDATA[CVEGEO: 20041<br>ENTIDAD: 20<br>SECCIÓN: 041]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20041</value>
           </Data>
@@ -36233,15 +35735,9 @@
       </Placemark>
       <Placemark>
         <name>San Antonio Nanahuatípam</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20109<br>ENTIDAD: 20<br>SECCIÓN: 109]]></description>
+        <description><![CDATA[CVEGEO: 20109<br>ENTIDAD: 20<br>SECCIÓN: 109]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20109</value>
           </Data>
@@ -36526,15 +36022,9 @@
       </Placemark>
       <Placemark>
         <name>San Bartolomé Ayautla</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20116<br>ENTIDAD: 20<br>SECCIÓN: 116]]></description>
+        <description><![CDATA[CVEGEO: 20116<br>ENTIDAD: 20<br>SECCIÓN: 116]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20116</value>
           </Data>
@@ -36757,15 +36247,9 @@
       </Placemark>
       <Placemark>
         <name>San Francisco Huehuetlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20142<br>ENTIDAD: 20<br>SECCIÓN: 142]]></description>
+        <description><![CDATA[CVEGEO: 20142<br>ENTIDAD: 20<br>SECCIÓN: 142]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20142</value>
           </Data>
@@ -37038,15 +36522,9 @@
       </Placemark>
       <Placemark>
         <name>San Jerónimo Tecóatl</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20163<br>ENTIDAD: 20<br>SECCIÓN: 163]]></description>
+        <description><![CDATA[CVEGEO: 20163<br>ENTIDAD: 20<br>SECCIÓN: 163]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20163</value>
           </Data>
@@ -37676,15 +37154,9 @@
       </Placemark>
       <Placemark>
         <name>San José Tenango</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20171<br>ENTIDAD: 20<br>SECCIÓN: 171]]></description>
+        <description><![CDATA[CVEGEO: 20171<br>ENTIDAD: 20<br>SECCIÓN: 171]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20171</value>
           </Data>
@@ -38194,15 +37666,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan Coatzóspam</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20187<br>ENTIDAD: 20<br>SECCIÓN: 187]]></description>
+        <description><![CDATA[CVEGEO: 20187<br>ENTIDAD: 20<br>SECCIÓN: 187]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20187</value>
           </Data>
@@ -38371,15 +37837,9 @@
       </Placemark>
       <Placemark>
         <name>San Juan de los Cués</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20206<br>ENTIDAD: 20<br>SECCIÓN: 206]]></description>
+        <description><![CDATA[CVEGEO: 20206<br>ENTIDAD: 20<br>SECCIÓN: 206]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20206</value>
           </Data>
@@ -38619,15 +38079,9 @@
       </Placemark>
       <Placemark>
         <name>San Lorenzo Cuaunecuiltitla</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20228<br>ENTIDAD: 20<br>SECCIÓN: 228]]></description>
+        <description><![CDATA[CVEGEO: 20228<br>ENTIDAD: 20<br>SECCIÓN: 228]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20228</value>
           </Data>
@@ -38962,15 +38416,9 @@
       </Placemark>
       <Placemark>
         <name>San Lucas Zoquiápam</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20234<br>ENTIDAD: 20<br>SECCIÓN: 234]]></description>
+        <description><![CDATA[CVEGEO: 20234<br>ENTIDAD: 20<br>SECCIÓN: 234]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20234</value>
           </Data>
@@ -39464,15 +38912,9 @@
       </Placemark>
       <Placemark>
         <name>San Mateo Yoloxochitlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20249<br>ENTIDAD: 20<br>SECCIÓN: 249]]></description>
+        <description><![CDATA[CVEGEO: 20249<br>ENTIDAD: 20<br>SECCIÓN: 249]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20249</value>
           </Data>
@@ -39681,15 +39123,9 @@
       </Placemark>
       <Placemark>
         <name>San Martín Toxpalan</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20244<br>ENTIDAD: 20<br>SECCIÓN: 244]]></description>
+        <description><![CDATA[CVEGEO: 20244<br>ENTIDAD: 20<br>SECCIÓN: 244]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20244</value>
           </Data>
@@ -40027,15 +39463,9 @@
       </Placemark>
       <Placemark>
         <name>San Pedro Ocopetatillo</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20322<br>ENTIDAD: 20<br>SECCIÓN: 322]]></description>
+        <description><![CDATA[CVEGEO: 20322<br>ENTIDAD: 20<br>SECCIÓN: 322]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20322</value>
           </Data>
@@ -40386,15 +39816,9 @@
       </Placemark>
       <Placemark>
         <name>Santa Ana Ateixtlahuaca</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20354<br>ENTIDAD: 20<br>SECCIÓN: 354]]></description>
+        <description><![CDATA[CVEGEO: 20354<br>ENTIDAD: 20<br>SECCIÓN: 354]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20354</value>
           </Data>
@@ -40697,15 +40121,9 @@
       </Placemark>
       <Placemark>
         <name>Santa Cruz Acatepec</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20374<br>ENTIDAD: 20<br>SECCIÓN: 374]]></description>
+        <description><![CDATA[CVEGEO: 20374<br>ENTIDAD: 20<br>SECCIÓN: 374]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20374</value>
           </Data>
@@ -40969,15 +40387,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María la Asunción</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20396<br>ENTIDAD: 20<br>SECCIÓN: 396]]></description>
+        <description><![CDATA[CVEGEO: 20396<br>ENTIDAD: 20<br>SECCIÓN: 396]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20396</value>
           </Data>
@@ -41363,15 +40775,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Chilchotla</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20406<br>ENTIDAD: 20<br>SECCIÓN: 406]]></description>
+        <description><![CDATA[CVEGEO: 20406<br>ENTIDAD: 20<br>SECCIÓN: 406]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20406</value>
           </Data>
@@ -43093,15 +42499,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Ixcatlán</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20416<br>ENTIDAD: 20<br>SECCIÓN: 416]]></description>
+        <description><![CDATA[CVEGEO: 20416<br>ENTIDAD: 20<br>SECCIÓN: 416]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20416</value>
           </Data>
@@ -43599,15 +42999,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Tecomavaca</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20431<br>ENTIDAD: 20<br>SECCIÓN: 431]]></description>
+        <description><![CDATA[CVEGEO: 20431<br>ENTIDAD: 20<br>SECCIÓN: 431]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20431</value>
           </Data>
@@ -44036,15 +43430,9 @@
       </Placemark>
       <Placemark>
         <name>Santa María Teopoxco</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20434<br>ENTIDAD: 20<br>SECCIÓN: 434]]></description>
+        <description><![CDATA[CVEGEO: 20434<br>ENTIDAD: 20<br>SECCIÓN: 434]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20434</value>
           </Data>
@@ -44563,15 +43951,9 @@
       </Placemark>
       <Placemark>
         <name>Santiago Texcalcingo</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20490<br>ENTIDAD: 20<br>SECCIÓN: 490]]></description>
+        <description><![CDATA[CVEGEO: 20490<br>ENTIDAD: 20<br>SECCIÓN: 490]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20490</value>
           </Data>
@@ -45034,15 +44416,9 @@
       </Placemark>
       <Placemark>
         <name>Teotitlán de Flores Magón</name>
-        <description><![CDATA[nombre: <br>descripción: <br>CVEGEO: 20545<br>ENTIDAD: 20<br>SECCIÓN: 545]]></description>
+        <description><![CDATA[CVEGEO: 20545<br>ENTIDAD: 20<br>SECCIÓN: 545]]></description>
         <styleUrl>#poly-558B2F-1200-76</styleUrl>
         <ExtendedData>
-          <Data name="nombre">
-            <value/>
-          </Data>
-          <Data name="descripción">
-            <value/>
-          </Data>
           <Data name="CVEGEO">
             <value>20545</value>
           </Data>
